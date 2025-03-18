@@ -1,0 +1,13 @@
+# 忽略Excel、私密文件
+data/raw/*.xlsx
+config.json
+
+# Python環境
+.env
+__pycache__/
+*.pyc
+venv/
+
+# IDE 設定檔
+.vscode/
+.idea/
